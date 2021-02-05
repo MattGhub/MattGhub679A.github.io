@@ -5,4 +5,6 @@ This is what you saw with Luis' and Brandon's files. THEY WERE IN MARKDOWN MODE
 ## two hashtags = header 2
 ### 3 hashtags = header 3
 - dashes make a bulleted list
--wow bullets
+- you need a space between
+-words or it just shows up on one line
+'''Three apostrophes
