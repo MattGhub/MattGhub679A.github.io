@@ -9,5 +9,9 @@ This is what you saw with Luis' and Brandon's files. THEY WERE IN MARKDOWN MODE
 -words or it just shows up on one line
 
 
-'''markdown
-does this look different?
+1.  Number list
+2.  Just number, dot, space
+
+**Two asterisks on each side to Bold**
+_One underscore on each side to make italics_
+'What is with the apostrophes?'
