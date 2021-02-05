@@ -14,4 +14,9 @@ This is what you saw with Luis' and Brandon's files. THEY WERE IN MARKDOWN MODE
 
 **Two asterisks on each side to Bold**
 _One underscore on each side to make italics_
-'What is with the apostrophes?'
+'What is with the apostrophes?' 'Apostrophes are supposed to be for code text, but what does that entail?'
+
+ 
+Even though bold, italics, and apostrophes are on separate lines, they show up on one line.  Why?  Is there a workaround besides spacing out the lines?
+
+[Link](url) and ![Image](src)
