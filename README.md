@@ -20,3 +20,7 @@ _One underscore on each side to make italics_
 Even though bold, italics, and apostrophes are on separate lines, they show up on one line.  Why?  Is there a workaround besides spacing out the lines?
 
 [Link](url) and ![Image](src)
+
+
+git.config tracks who makes what changes.
+Git and Github are two completely separate things, but Github does rely on Git.
